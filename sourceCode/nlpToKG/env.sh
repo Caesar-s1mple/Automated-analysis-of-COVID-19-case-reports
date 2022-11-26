@@ -1,1 +1,0 @@
-/Users/linshiqi/Documents/neo4j-community-4.3.7/bin/neo4j start

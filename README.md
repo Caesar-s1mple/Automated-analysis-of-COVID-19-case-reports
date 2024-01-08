@@ -94,3 +94,15 @@ Refer to files in sourceCode/nlpToKG
 ## 4. Usage
 
 Refer to pipeline.bat
+
+### 4.1 Minimum deployment requirements
+
+- Memory: > 8GB
+- GPU memory (if available): > 6GB
+
+### 4.2 Recommended Minimum Implementation Environments
+
+- CPU: I5-10600K
+- GPU: GTX 1080ti
+- Memory: 8GB
+
